@@ -102,7 +102,7 @@ The system is recent, and some fine-tuning is still needed.
 
 **Links - Feel free to reach out**
 
-Linkedin: linkedin.com/in/lorenzopardini
+Linkedin: https://linkedin.com/in/lorenzopardini
 
 Kaggle: https://www.kaggle.com/lorenzopardini
 
